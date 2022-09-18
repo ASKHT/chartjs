@@ -1,0 +1,46 @@
+{
+  "financialreport": [
+    {
+      "year": 2001,
+      "country": "india",
+      "studentpassed": 50000,
+      "studentappeared": 100000
+    },
+    {
+      "year": 2002,
+      "country": "india",
+      "studentpassed": 80000,
+      "studentappeared": 100000
+    },
+    {
+      "year": 2003,
+      "country": "india",
+      "studentpassed": 90000,
+      "studentappeared": 500000
+    },
+    {
+      "year": 2004,
+      "country": "india",
+      "studentpassed": 70000,
+      "studentappeared": 200000
+    },
+    {
+      "year": 2005,
+      "country": "india",
+      "studentpassed": 20000,
+      "studentappeared": 100000
+    },
+    {
+      "year": 2006,
+      "country": "india",
+      "studentpassed": 30000,
+      "studentappeared": 100000
+    },
+    {
+      "year": 2007,
+      "country": "india",
+      "studentpassed": 40000,
+      "studentappeared": 100000
+    }
+  ]
+}
